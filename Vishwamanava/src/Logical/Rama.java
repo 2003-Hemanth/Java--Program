@@ -12,14 +12,12 @@ public class Rama {
 		 
 		  for(int i=0;i<s.length()-1;i++) {
 			  char ch=s.charAt(i);
-			   if(s.equals(" ")) {
+			   if(s.equals (" ")) {
 				   System.out.println("g");
 			   }
 			   else {
 				   System.out.println(ch);
-				   System.out.println("5");
-				   System.out.println("6");
-				    System.out.println("7");
+				   
 			   }
 		  }
 	}
