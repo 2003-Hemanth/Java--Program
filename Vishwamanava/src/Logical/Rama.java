@@ -17,6 +17,8 @@ public class Rama {
 			   }
 			   else {
 				   System.out.println(ch);
+				   System.out.println("5");
+				   System.out.println("6");
 			   }
 		  }
 	}
